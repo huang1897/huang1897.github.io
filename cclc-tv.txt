@@ -305,4 +305,14 @@ Bestv赛事6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/in
 家有购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8
 快乐购,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8
 
+VIP直播_119,#genre#
+欲望,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+BRAZZERS,http://23.237.100.82:8000/BRAZZERS/index.m3u8
+接触,http://23.237.100.82:8000/HUSTLER/index.m3u8
+阁楼,http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+阁楼黄金,http://51.159.102.100/PenthouseGold/index.m3u8
+花花公子,http://23.237.100.82:8000/PLAYBOY/index.m3u8
+纯禁忌,http://78.47.224.234/puretaboo/index.m3u8
+红光高清,http://51.159.102.100/RedlightHD/index.m3u8
+
 
