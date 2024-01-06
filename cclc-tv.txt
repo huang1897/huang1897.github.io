@@ -240,8 +240,22 @@ CETV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3
 中国天气,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 
 福建频道,#genre#
-福建体育,http://hplayer.ggapk.net/tv_player/clappr.php?url=http://live3.fjtv.net/typd/playlist.m3u8?_upt=95bb71eb1704460483
-经济生活,http://live3.fjtv.net/jjpd/playlist.m3u8
+福建综合,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=fjzhhd4m/4000000
+福建公共,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=fjgghd4m/4000000
+福建新闻,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=fjxwhd4m/4000000
+电视剧,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=fjdsjhd4m/4000000
+福建旅游,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=fjlyhd4m/4000000
+福建少儿http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=fjsehd4m/4000000
+福建文体,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/?id=fjtyhd4m/4000000
+福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+漳浦综合,http://220.161.87.62:8800/hls/0/index.m3u8
+漳州综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8#http://59.37.87.116/lms_31182/tv_channel_175__redirect__31182.m3u8
+三明新闻,http://stream.smntv.cn/smtv1/sd/live.m3u8
+三明公共,http://stream.smntv.cn/smtv2/sd/live.m3u8
+龙岩综合,http://stream.lytv.net.cn/2/sd/live.m3u8
+
 上海频道,#genre#
 上海新闻,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 上海都市,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
