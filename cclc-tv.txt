@@ -652,7 +652,7 @@ CCTV-16 奥林匹克 4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch000000909900
 CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
-高清演唱会,#genre#
+LIVE演唱会,#genre#
 迈克尔杰克逊 1997德国慕尼黑,https://cn-jsnt-ct-01-34.bilivideo.com/upgcxcode/91/27/366862791/366862791_nb2-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1704620981&gen=playurlv2&os=bcache&oi=2061764637&trid=00000730f17a00c34ef7a0f20a6a5fe3cdf3h&mid=0&platform=html5&upsig=5a95c2d53f0b7a3a49c439c482bda332&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=14716&bvc=vod&nettype=0&f=h_0_0&bw=40428&logo=80000000
 刘德华线上演唱会HD,https://img.sobot.com/chatres/f82991d79fa0400288a74d8db1c9a5ba/msg/20240102/c5b00fe8ae1f41898ba4fc0ea068b770/a5bc2972a14f4858989d3975dac5f0e1.m3u8
 TFBOYS十年之约演唱会,https://shls.mcloud.139.com/hls/KL07e5995c994df4f8b57d36c97b05ef43/single/video/0/1080/index.m3u8
