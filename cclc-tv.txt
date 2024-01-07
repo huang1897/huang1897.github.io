@@ -258,7 +258,6 @@ CETV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3
 漳州综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8#http://59.37.87.116/lms_31182/tv_channel_175__redirect__31182.m3u8
 三明新闻,http://stream.smntv.cn/smtv1/sd/live.m3u8
 三明公共,http://stream.smntv.cn/smtv2/sd/live.m3u8
-龙岩综合,http://stream.lytv.net.cn/2/sd/live.m3u8
 
 
 上海频道,#genre#
